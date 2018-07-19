@@ -2,6 +2,8 @@ package git.test;
 
 public class TestClass {
 
+    private int a;
+
     void anyMethod(){
 
     }
