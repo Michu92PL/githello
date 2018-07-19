@@ -1,14 +1,6 @@
 package git.test;
 
 public class TestClass {
-
-    void anyMethod(){
-
+    void noThisIsBetter(){
     }
-    void blabla(){
-
-    }
-
-
-
 }
