@@ -5,6 +5,9 @@ public class TestClass {
     void anyMethod(){
 
     }
+    void blabla(){
+
+    }
 
 
 
